@@ -1,0 +1,4 @@
+/mongo-db
+*.log
+node_modules
+.idea
