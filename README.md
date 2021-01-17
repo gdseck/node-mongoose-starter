@@ -14,7 +14,7 @@ On Windows, the `mongo-win` script creates a mongo-db path inside the project. E
 
 Run `yarn mongo-win` to then start a locally hosted mongodb database.
 
-`yarn serve` will build and start the serve while also watching for changes. 
+`yarn serve` will build and start the server while also watching for changes. 
 
 Once served, go to `http://localhost:3000` and you should see an empty response object.
 
