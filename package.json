@@ -31,7 +31,7 @@
     "eslint": "7.18.0",
     "eslint-config-prettier": "7.1.0",
     "eslint-plugin-lodash-fp": "2.2.0-a1",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "express-winston": "4.0.5",
     "lodash": "4.17.21",
     "mongoose": "5.11.12",
